@@ -1,4 +1,4 @@
-package com.section5;
+package com.section5.hw;
 
 import java.util.Scanner;
 

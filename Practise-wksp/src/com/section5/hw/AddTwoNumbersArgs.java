@@ -1,4 +1,4 @@
-package com.section5;
+package com.section5.hw;
 
 public class AddTwoNumbersArgs {
     public static void main(String[] args) {
